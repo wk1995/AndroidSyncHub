@@ -21,4 +21,6 @@ dependencyResolutionManagement {
 
 rootProject.name = "AndroidSyncHub​"
 include(":app")
- 
+include(":query-api")
+include(":upload-api")
+include(":update-api")
